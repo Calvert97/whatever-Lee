@@ -19,11 +19,11 @@
 	font-family: Helvetica;
 	line-height: 1.06;
 	letter-spacing: -0.02em;
-	color: var(--calvert-color);
+	color: var(--calvert-fontcolor);
 }
 
 .aboutsiteTips h2:hover {
-	color: var(--calvert-color) !important;
+	color: var(--calvert-fontcolor) !important;
 }
 
 .aboutsiteTips .mask {
