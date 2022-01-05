@@ -23,7 +23,7 @@
 }
 
 .aboutsiteTips h2:hover {
-	color: var(--calvert-color);
+	color: var(--calvert-color) !important;
 }
 
 .aboutsiteTips .mask {
